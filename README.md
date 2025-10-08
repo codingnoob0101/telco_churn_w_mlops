@@ -10,7 +10,10 @@ Data treatment:
 
 Workflow:
 - train-test split
+- treating missing data (Total charges)
+- categorical encoding (one hot encoding for low-cardinality, target encoding for high-cardinality)
 - outliers analysis
 - treating outliers
 - scaling data
-- PCA to find principal component
+- training model: XGBoost with SHAP
+- model evaluation
