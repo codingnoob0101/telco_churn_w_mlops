@@ -1,0 +1,6 @@
+artifact_location: file:///Users/daniel/Documents/GitHub/telco_churn_w_mlops/mlflow/mlruns/446865625654293649
+creation_time: 1760175825549
+experiment_id: '446865625654293649'
+last_update_time: 1760175825549
+lifecycle_stage: active
+name: Anomaly Detection

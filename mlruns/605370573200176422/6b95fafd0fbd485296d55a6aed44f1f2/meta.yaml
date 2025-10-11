@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/605370573200176422/6b95fafd0fbd485296d55a6aed44f1f2/artifacts
+deleted_time: 1760176621071
+end_time: 1760175898148
+entry_point_name: ''
+experiment_id: '605370573200176422'
+lifecycle_stage: deleted
+run_id: 6b95fafd0fbd485296d55a6aed44f1f2
+run_name: XGBClassifier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760175896422
+status: 3
+tags: []
+user_id: daniel
