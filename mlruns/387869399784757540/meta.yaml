@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/387869399784757540
+creation_time: 1761033393889
+experiment_id: '387869399784757540'
+last_update_time: 1761033393889
+lifecycle_stage: active
+name: Telco Churn Multi-Model
