@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/469149532379613833/bc13bd4a4852404f9a34f0f60e35a6b4/artifacts
+deleted_time: 1761471135914
+end_time: 1761471020471
+entry_point_name: ''
+experiment_id: '469149532379613833'
+lifecycle_stage: deleted
+run_id: bc13bd4a4852404f9a34f0f60e35a6b4
+run_name: XGBoost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761471017595
+status: 3
+tags: []
+user_id: daniel

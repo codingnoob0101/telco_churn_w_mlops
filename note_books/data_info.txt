@@ -1,0 +1,3 @@
+Dataset shape: (7043, 20)
+Class balance: [3104 1121]
+Scale pos weight: 2.768956289027654
